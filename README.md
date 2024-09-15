@@ -1,5 +1,5 @@
 
-# AlgoViz
+# Sort-Visual
 
 Welcome to AlgoViz, an interactive program designed to help users understand sorting algorithms through entertaining animations.
 
